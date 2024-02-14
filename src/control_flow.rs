@@ -31,5 +31,5 @@ pub fn nested_loop(){
         }
         count += 1;
     }
-    println!("End count = {count}");
+    println!("Last count = {count}");
 }
